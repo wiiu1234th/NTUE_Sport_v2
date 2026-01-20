@@ -1,0 +1,4 @@
+.vercel/ 
+assets/videos/ 
+node_modules/ 
+*.backup 
